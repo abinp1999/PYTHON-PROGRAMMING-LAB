@@ -1,2 +1,2 @@
 # PYTHON
-Programming lab
+LAB
